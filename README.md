@@ -20,13 +20,6 @@
 <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/r.svg"></code>
 
-### __Development environment__
-
-<code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"></code>
-<code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"></code>
-<code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg"></code>
-<code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"></code>
-
 ### __Libraries__
     
 <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"></code>
@@ -46,10 +39,22 @@
 <code><img height="40" width="40" src="https://cdn.cdnlogo.com/logos/r/85/riak.svg"></code>
 <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg"></code>
 
+### __Development environment__
+
+<code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"></code>
+<code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"></code>
+<code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg"></code>
+<code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"></code>
+
 ### __Robotics tools__
 
 <code><img height="40" width="40" src="https://user-images.githubusercontent.com/29420733/70393939-c5821d80-19e7-11ea-8ebd-daaadd856287.png"></code>
 <code><img height="40" width="55" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/ROS_cat.png"></code>
+
+### __Operative System__
+
+<code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"></code>
+<code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"></code>
 
 ### __Tools__   
 
@@ -62,6 +67,8 @@
 <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"></code>
 <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"></code>
 <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"></code>
+
+
 
 ---
 <p align="center">
